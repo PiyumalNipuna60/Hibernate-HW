@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="hibernate_module@localhost" uuid="1ba39797-382c-4194-b37c-cc1441ec9497">
+    <data-source source="LOCAL" name="hibernate_module" uuid="089c8d23-9d16-4736-941f-52dea974d23b">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
